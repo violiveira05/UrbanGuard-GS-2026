@@ -1,0 +1,7 @@
+**/data/
+**/*.mv.db
+**/*.trace.db
+**/node_modules/
+**/target/
+**/.expo/
+/UrbanGuard/
