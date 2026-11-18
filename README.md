@@ -561,15 +561,5 @@ Essas funcionalidades representam possibilidades futuras e não fazem parte da i
 O desenvolvimento aplica conceitos de programação Java, arquitetura em camadas, APIs REST, desenvolvimento mobile, persistência de dados, testes automatizados e integração de sistemas.
 
 ---
-
-## 📄 15. Licença e Uso
-
-Projeto desenvolvido para fins acadêmicos e educacionais.
-
-A utilização em cenários reais depende de melhorias de segurança, infraestrutura e validação dos dados.
-
----
-
-**UrbanGuard | Global Solution FIAP 2026.2**
-
-*Tecnologia aplicada à identificação e ao acompanhamento de riscos urbanos.*
+## 15. Video 
+LINK: https://youtu.be/xXzpKk07j-8
